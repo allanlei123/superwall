@@ -1,6 +1,11 @@
+
+
 body {
   background-color: white;
   font-family: Helvetica, Arial, sans-serif;
+  background-image: url("http://www.hdwallpapersphoto.com/wallpapers/Winter_Olympics_2014_in_Sochi__hot__winter__your_047477_.jpg");
+  background-position: fixed;
+  background-size: cover;
 }
 
 #page {
@@ -23,11 +28,21 @@ body {
   margin-right: 10px;
 }
 
-#post-form textarea {
-  width: 400px;
-  min-height: 50px;
+.post-form textarea {
+  width: 700px;
+  min-height: 100px;
 }
 
 #content {
   font
+}
+
+h2 {
+  color: blue;
+  font-family: palatino;
+  font-size: 25px;
+}
+
+#output {
+  color:green;
 }
