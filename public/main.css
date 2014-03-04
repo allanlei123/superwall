@@ -3,7 +3,7 @@
 body {
   background-color: white;
   font-family: Helvetica, Arial, sans-serif;
-  background-image: url("http://www.hdwallpapersphoto.com/wallpapers/Winter_Olympics_2014_in_Sochi__hot__winter__your_047477_.jpg");
+  background-image: url("vancouver.jpg");
   background-position: fixed;
   background-size: cover;
 }
@@ -29,7 +29,7 @@ body {
 }
 
 .post-form textarea {
-  width: 700px;
+  width: 1000px;
   min-height: 100px;
 }
 
@@ -38,11 +38,13 @@ body {
 }
 
 h2 {
-  color: blue;
+  color: #339966;
   font-family: palatino;
-  font-size: 25px;
+  font-size: 50px;
+
 }
 
 #output {
   color:green;
+  font-size: 20px;
 }
